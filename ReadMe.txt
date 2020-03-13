@@ -13,7 +13,7 @@
 ---------------------
 2.Major challenges: |
 ---------------------
-    - on the home page, in the navigation part on the top-left corner, I wasn't able to remove the underline 
+    - On the home page, in the navigation part on the top-left corner, I wasn't able to remove the underline 
       on the anchor tags(links) as it would requiere the style attribute which is not allowed in this project.
 
     - I had to use the 'valign = "top"' tag inorder to make the navigation pane stick in the top left corner of
@@ -23,6 +23,8 @@
     - When users scroll to the botto of any page, the navigation pane is either fully or partially invisible.
       this is because it is not allowed to use any css atributes, like the 'position: fixed' property.
 
+    - In the about bape I couldn't easily make texts float next to my image so I had to use a table which makes 
+      the process tiring. 
 
 -------------------
 3.Lessons Learnt: |
