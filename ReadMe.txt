@@ -26,6 +26,10 @@
     - In the about bape I couldn't easily make texts float next to my image so I had to use a table which makes 
       the process tiring. 
 
+    - Since the anchor tags are embeded in the <td></td> tag of the table it is hard to maintain the width and 
+      height of the anchor tag icons/logos. If css was available we could've used the display:"inline"; styling
+      attribute but it is out of our reach in this project.
+
 -------------------
 3.Lessons Learnt: |
 -------------------
@@ -35,3 +39,6 @@
     - You might have noticed the rather unusual naming of my HTML files. But that is because I wanted the file
       name to be differen from the name that is displayed in the website itself, (to keep safe from hackers). 
       I did it based on your recommendation on one of our lab sessions.
+    
+    - Since this website uses tables and its attributes intensely, I have aquiered a good amount of skills in 
+      manipulating 
